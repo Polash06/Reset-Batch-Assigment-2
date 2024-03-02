@@ -257,6 +257,10 @@ footer{
     margin-left: 530px;
     margin-top: 90px;  
 }
+.videotag{
+    width: 600px;
+    height: 300px;
+}
 /* responsive mobile dives */
 @media screen and  (max-width: 576px) {
     

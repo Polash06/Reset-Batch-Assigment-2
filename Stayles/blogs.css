@@ -228,7 +228,35 @@ nav li a {
   
 }
 
-
+footer{
+    background-color: antiquewhite;
+    width: 1335px;
+    height: 450px;
+    margin-top: 70px;
+    padding-top: 60px;
+}
+.imagesgroup40071{
+   display: flex; 
+   margin-left: 300px;
+}
+.footersection{
+    margin-left: 170px;
+}
+.lorem{
+    margin-left: 200px;
+}
+.github{
+    width: 65px;
+}
+.footericonsection{
+    display: flex;
+    gap: 30px;
+    margin-left: 500px;
+}
+.Reserved{
+    margin-left: 530px;
+    margin-top: 90px;  
+}
 /* responsive mobile dives */
 @media screen and  (max-width: 576px) {
     

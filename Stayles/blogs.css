@@ -4,6 +4,7 @@ body{
 header{
     padding-top: 30px;
     padding-left: 70px; 
+    margin-right: 80px;
   
 }
 nav{
@@ -77,8 +78,16 @@ nav li a {
     padding: 15px;
     border-radius: 20px;
     margin-left: 10px; 
-  
+ 
 }
+
+.part3{
+    display: flex;
+    margin-top: 120px;
+    gap: 30px;
+}
+
+
 /* responsive mobile dives */
 @media screen and  (max-width: 576px) {
     

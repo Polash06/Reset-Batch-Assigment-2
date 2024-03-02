@@ -9,8 +9,6 @@ header{
 }
 nav{
     display: flex;
-   /* padding-top: 30px;
-   padding-left: 70px;    */
 }
 nav > ul{
     display: flex;
@@ -122,9 +120,57 @@ nav li a {
     margin-left: 110px;
     margin-bottom: 70px;
 }
+.WhyChoose{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.Dolar{
+    margin-left: 130px;
+    margin-bottom: 50px;
+}
+.part5{
+    display: flex;
+    gap: 50px;
+    margin-left: 40px;
+}
+.background{
+    background-color: bisque;
+    width: 900px;
+    height: 350px;
+    border-radius: 12px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.background2{
+ background-color: aquamarine;
+    width: 900px;
+    height: 350px;
+    border-radius: 12px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.background3{
+    margin-top: 50px;
+    margin-left: 300px;
+    background-color: burlywood;
+    width: 700px;
+    height: 300px;
+    border-radius: 12px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.imag{
+    width: 60px;
+}
+
 
 /* responsive mobile dives */
 @media screen and  (max-width: 576px) {
     
-        
+    .images1,.images2,.images3,.part3{
+    flex-direction: column;
+    } 
+    /* header , nav > ul , nav li{
+        text-decoration: none;
+    }    */
 }

@@ -261,6 +261,20 @@ footer{
     width: 600px;
     height: 300px;
 }
+.Extarsection{
+    width: 450px;
+    height: 400px;
+    
+}
+.mainextar{
+    margin-top: 60px;
+}
+.extarCard{
+   display: flex;
+    gap: 30px;
+    margin-top: 70px;
+}
+
 /* responsive mobile dives */
 @media screen and  (max-width: 576px) {
     

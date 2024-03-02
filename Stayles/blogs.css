@@ -29,10 +29,58 @@ nav li a {
 }
     
 .Group40071{
-    padding-left: 10px;
+  
 }
 .ExploreYourTravel{
     width: 1190px;
     height: 500px;
     background-image: url("../Images/Group13.png");
+}
+.Explore{
+  padding-top: 70px;
+    margin-left: 300px;
+    color: white;
+   font-size: 3rem;
+    
+}
+.ppp{
+    padding-left: 260px;
+    color: white;
+}
+.mm{
+    margin-left: 130px;
+}
+
+.inputsection{
+    padding-left: 200px;
+    padding-top: 30px;
+    /* background-color: gainsboro; */
+    width: 650px;
+    height: 70px;
+    margin-left: 150px;
+
+    
+}
+.polash{
+    width: 100px;
+    height: 20px;
+    border: 2px solid whitesmoke;
+    padding: 15px;
+    border-radius: 20px;  
+    margin-left: 10px; 
+}
+.polash1{
+    width: 100px;
+    height: 20px;
+    border: 2px solid whitesmoke;
+    background-color: chocolate;
+    padding: 15px;
+    border-radius: 20px;
+    margin-left: 10px; 
+  
+}
+/* responsive mobile dives */
+@media screen and  (max-width: 576px) {
+    
+        
 }

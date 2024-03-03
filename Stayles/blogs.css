@@ -39,26 +39,21 @@ nav li a {
 }
 .Explore{
   padding-top: 70px;
-    margin-left: 300px;
+  text-align: center;
     color: white;
    font-size: 3rem;
     
 }
 .ppp{
-    padding-left: 260px;
+    text-align: center;
     color: white;
 }
-.mm{
-    margin-left: 130px;
-}
-
 .inputsection{
-    padding-left: 200px;
+    padding-left: 260px;
     padding-top: 30px;
-    /* background-color: gainsboro; */
     width: 650px;
     height: 70px;
-    margin-left: 150px;
+    text-align: center;
 
     
 }
@@ -116,18 +111,18 @@ nav li a {
  margin-top: 10px;
 }
 .Choose{
-    margin-left: 400px;
+    text-align: center;
 }
 .Choose1{
-    margin-left: 110px;
+    text-align: center;
     margin-bottom: 70px;
 }
 .WhyChoose{
     margin-top: 100px;
-    margin-left: 500px;
+    text-align: center;
 }
 .Dolar{
-    margin-left: 130px;
+    text-align: center;
     margin-bottom: 50px;
 }
 .part5{

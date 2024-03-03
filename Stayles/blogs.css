@@ -49,27 +49,27 @@ nav li a {
     color: white;
 }
 .inputsection{
-    padding-left: 260px;
     padding-top: 30px;
-    width: 650px;
+    width: 700px;
     height: 70px;
     text-align: center;
-
-    
+    margin-left: 240px;
+    border-radius: 12px;
+   
 }
 .polash{
-    width: 100px;
+    width: 120px;
     height: 20px;
-    border: 2px solid whitesmoke;
     padding: 15px;
+   border: 2px solid white;
     border-radius: 20px;  
     margin-left: 10px; 
 }
 .polash1{
-    width: 100px;
+    width: 120px;
     height: 20px;
-    border: 2px solid whitesmoke;
     background-color: orange;
+    border: 2px solid white;
     padding: 15px;
     border-radius: 20px;
     margin-left: 10px; 
@@ -92,18 +92,36 @@ nav li a {
    font-size: 1rem;
    
 }
+.img1{
+   background-image: url("../Images/Rectangle5.png"); 
+   border-radius: 12px;
+   min-width: 550px;
+   min-height: 300px;
+}
+.img2{
+    background-image: url("../Images/Rectangle8.png");
+    border-radius: 12px;
+    min-width: 550px;
+    min-height: 300px;
+}
 .part4{
     margin-top: 100px;
 }
 .images1{
     display: flex;
-    gap: 25px;
-    margin-bottom: 10px;
+    gap: 35px;
+    margin-bottom: 30px;     
 }
+
 .images2{
  display: flex;
  gap: 25px;
  margin: 10px;
+}
+.Indonesia{
+    padding-left: 190px;
+    padding-top: 100px;
+    color: white;
 }
 .images3{
  display: flex;
@@ -230,15 +248,11 @@ footer{
     margin-top: 70px;
     padding-top: 60px;
 }
-.imagesgroup40071{
-   display: flex; 
-   margin-left: 300px;
-}
 .footersection{
-    margin-left: 170px;
+   text-align: center;
 }
 .lorem{
-    margin-left: 200px;
+  text-align: center;
 }
 .github{
     width: 65px;
@@ -246,15 +260,11 @@ footer{
 .footericonsection{
     display: flex;
     gap: 30px;
-    margin-left: 500px;
+ margin-left: 550px;
 }
 .Reserved{
-    margin-left: 530px;
+   text-align: center;
     margin-top: 90px;  
-}
-.videotag{
-    width: 600px;
-    height: 300px;
 }
 .Extarsection{
     width: 450px;
